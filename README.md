@@ -4,8 +4,8 @@ Group project for cyber security
 
 ## Contributors
 
-    * Jasmine Beal
-    * Ariel Guerrero
+* Jasmine Beal
+* Ariel Guerrero
 
 ## Description
 

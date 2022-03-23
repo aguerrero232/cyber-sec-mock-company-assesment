@@ -1,0 +1,20 @@
+in-bounds: 
+enforcing better password security measures
+2-factor verification
+general knowledge of password safety
+password lock-out
+enforce better ways of backing up system and protecting sensitive information
+as of now they store their backups on hard drives and store those into physical non secure containers
+Backup systems more often and more efficiently
+enforce required documentation of when backups are completed
+physical security should be implemented such as locking door to server room  
+security on terms of who can enter the physical organization 
+no intercom is being utilized
+they just let people in
+brief employees on the dangers of piggybacking
+
+out-of-bounds:
+cannot request details about tokens or information related to third party servers (due to NDAs)
+credit card processing security (1:04:00)
+pci DSS is online
+access logs

@@ -1,0 +1,37 @@
+- proxy card that is used to unlock building also unlocks NARO office space
+	- we should implement better authentication method
+  
+- there aren't any offical logs of who enters the NARO office at any time
+
+- employees are known to leave files out on desk
+
+- password policy needs to be updated currently only using 10 characters
+could be changed to 14 (including numbers, special characters, uppercase)
+
+- company does not take logs of activity
+
+- unfamiliar of what drive encryption is (seem to be using bitlocker)
+
+- external devices such as usb drivers are used often
+
+- only security software being utilized is windows security
+
+- employees us their own mobile devices to access NARO documents
+through office 365 site
+
+- employees are not required to change their passwords, they are currently
+changing passwords as little as possible
+
+- Henry works for companies other than NARO
+
+- no firewalls on servers
+
+- computer room left open for cleaning staff after hours
+
+- real estate records need to be maintained for 7 years
+
+- everything is on the file server (everything in one place)
+
+- credit card information processed through square
+
+- using wordpress website

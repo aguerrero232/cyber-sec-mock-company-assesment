@@ -9,8 +9,7 @@ Group project for cyber security
 
 ## Description
 
-This will be a paper-based exercise, meaning there will not be any active assessment activities such as
-penetration testing. However, this is not unusual in the cybersecurity industry for many reasons,
+This will be a paper-based exercise not unusual in the cybersecurity industry for many reasons,
 including:
 
 * Some systems – such as those involving critical infrastructure – are not suited for active

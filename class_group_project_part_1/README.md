@@ -16,6 +16,8 @@
   * reception desk
     * occupies desk 9am - 5pm
 
+___
+
 ## Facility
 
 ### Access And Hours
@@ -136,12 +138,14 @@ ___
   * NARO Public network (guest network)
     * does not require a password
 
-### IT Support
+___
 
-    Company is not large enough for dedicated IT specialists
+## IT Support
+
+    NARO is not large enough for dedicated IT specialists
 
 * contracts IT support
-  * contracted from local service provider of all IT needs
+  * contracted from local service provider for all IT needs
   * consultant stops by every 2 months to update systems and software that require it
     * is this a best practice?
   * consultant will stop by incase of specific faults in hardware or software

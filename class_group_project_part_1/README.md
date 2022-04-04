@@ -1,23 +1,10 @@
 # Notes for Overview of NARO, Inc
 
-## Location
-
-* 13th Floor of high-rise building downtown San Antonio, TX
-  * corner of the floor they are on
-
-* Neighbors
-  * large real estate development firm,
-    * takes up over half the floor
-  * oil and gas services firm
-  * empty space
-    * ***was formerly leased to an investment firm that had several of their executives charged with fraud***
-  
-## Facility
-
-### Staff
+## Staff
 
 * 20 full time members
   * in cubicles
+
 * CEO
   * has own office
 * Manager
@@ -29,6 +16,34 @@
   * reception desk
     * occupies desk 9am - 5pm
 
+## Facility
+
+### Access And Hours
+
+    unlocked from 6:00am to 10:00pm
+
+* access can also be gained by using a proximity card (proxy card) that all building tenants have
+  * to access NARO office space proxy card is always required.
+
+* Receptionist can hit an unlock button to unlock the door to the NARO office
+  * door is held by magnetic lock
+
+* To exit, there is a motion sensor which will unlock the doors when someone is leaving.
+
+* kitchen storage and restrooms are located in common areas on office floor, NOT IN OFFICE
+
+### Location
+
+* 13th Floor of high-rise building downtown San Antonio, TX
+  * corner of the floor they are on
+
+* Neighbors
+  * large real estate development firm,
+    * takes up over half the floor
+  * oil and gas services firm
+  * empty space
+    * ***was formerly leased to an investment firm that had several of their executives charged with fraud***
+  
 ### Additional Spaces
 
 * 2 small conference rooms
@@ -36,7 +51,7 @@
 
 #### Computer Closet
 
-* small “computer closet”
+* ***small*** “computer closet”
 * contents:
   * company’s three servers
   * router provided by isp
@@ -45,7 +60,43 @@
     * connects the servers
     * connects WAP to router
 
-#### Servers
+___
+
+## Company Technology
+
+### Workstations
+
+    each employee has their own workstation
+
+* Windows OS
+  * what version of windows though?
+  * are they updating?
+
+* additional software is installed based on the specific need of the employee
+
+* Connected to the internet using via wireless network (Wi-Fi) distributed by NARO
+  * is this the only method of connecting to the company’s network?
+
+### Laptops
+
+* total of ***4 laptops***
+  * can be taken home temporarily
+    * are they being used properly?
+    * are the employees securing them when they are not in use?
+
+* employee's are required to install software prior to taking them home
+  * ex.) accountant installed quickbooks software and copied over all of their data before taking them home
+    * how is the copied data stored, and handled?
+      * read only? or is the data read and write?
+      * can they copy data over from the work laptop?
+
+### Printers
+
+* Two HP printers
+  * connected to the internet via wireless network (Wi-Fi) distributed by NARO
+    * are they on the public or private network?
+
+### Servers
 
     3 Servers in computer closet
 
@@ -63,49 +114,9 @@
     * is there rendundant storage?
     * are there backups?
 
-### Access And Hours
+___
 
-* unlocked from 6:00am to 10:00pm
-
-* access can also be gained by using a proximity card (proxy card) that all building tenants have
-  * to access NARO office space proxy card is always required.
-
-* Receptionist can hit an unlock button to unlock the door to the NARO office
-  * door is held by magnetic lock
-
-* To exit, there is a motion sensor which will unlock the doors when someone is leaving.
-
-* kitchen storage and restrooms are located in common areas on office floor, NOT IN OFFICE
-
-### Company Technology
-
-#### Workstations
-
-* each employee has their own workstation
-* os is Windows
-  * what version of windows though?
-  * are they updating?
-* additional software is installed based on the specific need of the employee
-* Connected to the internet using via wireless network (Wi-Fi) distributed by NARO
-  * is this the only method of connecting to the company’s network?
-
-#### Laptops
-
-* total of ***4 laptops***
-  * can be taken home temporarily
-    * are they being used properly?
-    * are the employees securing them when they are not in use?
-* employee's are required to install software prior to taking them home
-  * ex.) accountant installed quickbooks software and copied over all of their data before taking them home
-    * how is the copied data stored, and handled?
-      * read only? or is the data read and write?
-      * can they copy data over from the work laptop?
-
-#### Printers
-
-* Two HP printers
-  * connected to the internet via wireless network (Wi-Fi) distributed by NARO
-    * are they on the public or private network?
+## Company Network
 
 ### Remote Access
 

@@ -18,13 +18,10 @@
 
 * 20 full time members
   * in cubicles
-
 * CEO
   * has own office
-
 * Manager
   * has own office
-
 * 3 Accounting Team Members
   * shared large office
 
@@ -35,9 +32,36 @@
 ### Additional Spaces
 
 * 2 small conference rooms
+  * how are these accessed?
+
+#### Computer Closet
 
 * small “computer closet”
-  * company’s three servers are housed here
+* contents:
+  * company’s three servers
+  * router provided by isp
+  * Ubiquiti Unifi U6LR WAP
+  * Netgear 8-port switch
+    * connects the servers
+    * connects WAP to router
+
+#### Servers
+
+    3 Servers in computer closet
+
+* 2 of the 3 are running Windows Server 2019
+  * 1 is a Windows domain COntroller, Data Base Server, and everything else needed for the Windows network
+  * the other is a server that runs applications necessary to connect to various partners.
+    * applications to book trucks directly from source
+    * file leases with government organizations
+    * etc.
+* 1 is Windows Server 2016, used for files
+  * file server software does not work on Windows Server 2019
+  * location for employees to store files
+  * location for archived files
+    * some files need to be stored for an extended period of time
+    * is there rendundant storage?
+    * are there backups?
 
 ### Access And Hours
 
@@ -58,8 +82,55 @@
 #### Workstations
 
 * each employee has their own workstation
-  * os is Windows
-    * what version of windows though?
-    * are they updating?
+* os is Windows
+  * what version of windows though?
+  * are they updating?
+* additional software is installed based on the specific need of the employee
+* Connected to the internet using via wireless network (Wi-Fi) distributed by NARO
+  * is this the only method of connecting to the company’s network?
 
-    *
+#### Laptops
+
+* total of ***4 laptops***
+  * can be taken home temporarily
+    * are they being used properly?
+    * are the employees securing them when they are not in use?
+* employee's are required to install software prior to taking them home
+  * ex.) accountant installed quickbooks software and copied over all of their data before taking them home
+    * how is the copied data stored, and handled?
+      * read only? or is the data read and write?
+      * can they copy data over from the work laptop?
+
+#### Printers
+
+* Two HP printers
+  * connected to the internet via wireless network (Wi-Fi) distributed by NARO
+    * are they on the public or private network?
+
+### Remote Access
+
+* NARO network is accessible over vpn if paired with usage of company laptops
+* Remote Access to the company network is available through installed software and providing the necessary credentials
+  * NARO username and password
+
+* Employees are also able to access their email, calendar, and Office 365 account through their smart devices using the proprietary Office365 application
+  * ***Is the office 365 application secure, and what credentials are necessary to access it?***
+
+### Wireless Network
+
+* split into two parts
+  * NARO Business network
+    * protected by the password: “N4RObus1ne$$N3t”
+    * uses WPA2 for encryption.
+  * NARO Public network (guest network)
+    * does not require a password
+
+### IT Support
+
+    Company is not large enough for dedicated IT specialists
+
+* contracts IT support
+  * contracted from local service provider of all IT needs
+  * consultant stops by every 2 months to update systems and software that require it
+    * is this a best practice?
+  * consultant will stop by incase of specific faults in hardware or software

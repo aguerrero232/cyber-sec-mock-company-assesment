@@ -10,7 +10,7 @@
   * ideas?
   * hire a security guard
 
-* there aren't any offical logs of who enters the NARO office at any time
+* there aren't any official logs of who enters the NARO office at any time
   * log entries, manually by hand and digitally (with key card)
 
 ___

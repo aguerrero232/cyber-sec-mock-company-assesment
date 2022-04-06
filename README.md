@@ -22,3 +22,32 @@ system does not yet exist.
 * The organization does not have the resources to support an active assessment. For example,
 they may not have an IT person that can quickly restore systems to their original state after it
 has been compromised  
+
+## Gameplan
+
+### ***3 - 23 - 2022***
+
+Go though the overview and video then list out important data relating to NARO.
+Go through key points and point out vulnerabilities and weaknesses.
+
+### ***4 - 6 - 2020***
+
+* goals for assessment methodologies
+  * find more vulnerabilities (what)
+  * find more ways to exploit vulnerabilities (why)
+  * find more ways to protect against vulnerabilities (how)
+  * find more ways to improve security (how)
+
+* assessment activities
+  * what is assessment activity?
+    * what is the purpose of the assessment activity?
+    * what is the assessment activity doing?
+  * going through thersitical assessment activities
+    * outline the best practices in the assessment activity scenario
+
+* discuss results from assessments
+  * what are the strengths
+  * what are the weaknesses
+
+* security checklist
+  * create once every feasible vulnerability and scenario is outlined

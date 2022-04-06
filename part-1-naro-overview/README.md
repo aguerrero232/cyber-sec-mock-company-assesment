@@ -113,7 +113,7 @@ ___
   * location for employees to store files
   * location for archived files
     * some files need to be stored for an extended period of time
-    * is there rendundant storage?
+    * is there redundant storage?
     * are there backups?
 
 ___

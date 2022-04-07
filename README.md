@@ -6,6 +6,7 @@ Group project for cyber security
 
 * Jasmine Beal
 * Ariel Guerrero
+* Isai Rivas
 
 ## Description
 

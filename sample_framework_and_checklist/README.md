@@ -1,9 +1,8 @@
-### Author - Ariel Guerrero @aes604
-### Principles of Cyber Security
+### Author - Ariel Guerrero
 ___
 
 
-##  ***Small Business Cyber Security Model***  
+##  ***NARO Cyber Security Model***  
 
 ___
 

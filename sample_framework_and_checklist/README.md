@@ -1,4 +1,4 @@
-### Contributors - Ariel Guerrero
+### Contributors - Ariel Guerrero, Jasmine Beale
 ___
 
 

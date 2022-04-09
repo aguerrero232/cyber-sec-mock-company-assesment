@@ -41,9 +41,6 @@ ___
 
 ### **Safeguard your information**
 
-* Least Privilege
- Users should only be allowed to use privileged software based on their role in the business. By limiting the amount of privilege that a user has access to, if, theoretically, the user’s account was compromised, it would limit the number of systems that are impacted and could be used for malicious purposes. Within the least privilege control, we could also employ enhancement 3 which includes authorizing network access commands for certain operational needs while also documenting the reasoning behind such needs.
-
 * Concurrent Session Control:
   A small business should take care of how many concurrent sessions its employees have access to based on the role of the employee. By closely monitoring the attempts that an employee has made in having various sessions open, a small business can use this as a detection measure to see if high levels of attempts are caused by a compromised user, this also limits the attackers window of operation as it would be easy to trigger such a detection measure.
 
@@ -82,10 +79,14 @@ ___
   * All employees should sign a statement of agreement
   * Review policies annually and as changes to the company and technologies used occur
 
-* Limit employee access to data and information
+* Least Privilege
+  * Limit employee access to data and information
   * Only allow employees to access what they need
   * Prevent non-privileged users from executing privileged functions.
+  * Users should only be allowed to use privileged software based on their role in the business.
   
+        By limiting the amount of privilege that a user has access to, if, theoretically, the user’s account was compromised, it would limit the number of systems that are impacted and could be used for malicious purposes. Within the least privilege control, we could also employ enhancement 3 which includes authorizing network access commands for certain operational needs while also documenting the reasoning behind such needs.
+
 * ***Train your employees***
   * According to the cybersecurity education company, Cybint, 95% of breaches are caused by human error.
   * What Topics Should My Security Awareness Efforts Focus On?
@@ -154,62 +155,62 @@ ___
 
 ___
 
-Control Control Item Control Name Control questions
-
-AC-6  Least Privilege "
+## ***Least Privilege***
 
 * What kind of privileges are given for each role?
 * Have roles privileges been established?
-* What employees currently have the most amount of access privilege?"
+* What employees currently have the most amount of access privilege?
 
-AC-10  Concurrent session control "
+### ***Concurrent session control***
 
 * Is it crucial for every employee to have more than one session open?
-* What is the maximum amount of session an individual employee is able to open?"
+* What is the maximum amount of session an individual employee is able to open?
 
-AC-17  Remote access "
+### ***Remote access***
 
 * Can work be done on site without the need for remote sessions?
-  • Are remote sessions based on employee job role?"
+* Are remote sessions based on employee job role?
 
-AC-19  Access control for mobile devices "
+### ***Access control for mobile devices***
 
 * Is any type of device able to connect to the network?
 * Has device connection type been divided so that only specific types of employees can connect with specific devices?
-  * How often are network passwords changed?
+* How often are network passwords changed?
 
-AC-21  Information Sharing "• Are employees allowed to email external contacts?
+### ***Information Sharing***
 
+* Are employees allowed to email external contacts?
 * Will third party vendors be an exception to emailing external contacts?
 * What type of information is being shared?
 * Does the information being shared contain PI (Private information)?
 
-AT-1  Policy and Procedure
+### ***Policy and Procedure***
 
 * What are your currently policies and procedures for any cyber related work?
 
-AT-2  Literacy training and awareness "• How often are your employees trained on cyber security threats?
+### ***Literacy training and awareness***
 
+* How often are your employees trained on cyber security threats?
 * How often does testing occur?
 * How knowledgeable are your employees on the different types of cyber security attacks?
 
-3.2 Protect
+## ***Protect***
 
 * What do you currently use in the way of protection against cyber security threats?
 * Is your business and customer’s private information properly encrypted?"
 
-3.3 Detect
+## ***Detect***
 
 * What type of anti-virus protection does your business run?
 * How often is your network checked for any intrusions?
 * Are there logs that record any suspicious activity?
 
-3.4 Respond
+## ***Respond***
 
 * What step by step process does your business currently have if an intrusion was to be detected?
 * Who is your current point of contact when an intrusion occurs?
 
-3.5 Recover
+## ***Recover***
 
 * What is your current state of information and systems backup?
 * How often are systems backed up?

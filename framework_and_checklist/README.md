@@ -1,6 +1,3 @@
-### Contributors - Ariel Guerrero, Jasmine Beale
-
-___
 
 # ***NARO Cyber Security Model Framework and Checklist***  
 

@@ -85,6 +85,8 @@ ___
   * can be taken home temporarily
     * are they being used properly?
     * are the employees securing them when they are not in use?
+    * windows security
+    * basic username and password
 
 * employee's are required to install software prior to taking them home
   * ex.) accountant installed quickbooks software and copied over all of their data before taking them home

@@ -2,7 +2,7 @@
 
 ___
 
-# ***NARO Cyber Security Model***  
+# ***NARO Cyber Security Model Framework and Checklist***  
 
 ___
 

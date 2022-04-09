@@ -2,7 +2,7 @@
 
 ___
 
-## ***NARO Cyber Security Model***  
+# ***NARO Cyber Security Model***  
 
 ___
 
@@ -17,7 +17,7 @@ may not have a lot of time to dedicate to the process, or may not have the fundi
 
 ___
 
-## ***Information Security***
+## ***Framework For Information Security***
 
 Organizations must exercise ***due diligence*** in managing information and privacy risk. Employing effective risk-based
 processes, procedures, methods, and technologies ensures that information systems and organizations have the necessary trustworthiness to support business functions.
@@ -35,11 +35,7 @@ processes, procedures, methods, and technologies ensures that information system
 
 ___
 
-# Framework for Information Security
-
-___
-
-### **Safeguard your information**
+### ***Security Methods***
 
 * Concurrent Session Control:
   A small business should take care of how many concurrent sessions its employees have access to based on the role of the employee. By closely monitoring the attempts that an employee has made in having various sessions open, a small business can use this as a detection measure to see if high levels of attempts are caused by a compromised user, this also limits the attackers window of operation as it would be easy to trigger such a detection measure.
@@ -151,9 +147,7 @@ from your business network.**
 
 ___
 
-# Audit Checklist
-
-___
+# **NARO Audit Checklist**
 
 ## ***Least Privilege***
 

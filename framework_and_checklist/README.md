@@ -78,7 +78,7 @@ ___
   * Prevent non-privileged users from executing privileged functions.
   * Users should only be allowed to use privileged software based on their role in the business.
   
-        By limiting the amount of privilege that a user has access to, if, theoretically, the user’s account was compromised, it would limit the number of systems that are impacted and could be used for malicious purposes. Within the least privilege control, we could also employ enhancement 3 which includes authorizing network access commands for certain operational needs while also documenting the reasoning behind such needs.
+      By limiting the amount of privilege that a user has access to, if, theoretically, the user’s account was compromised, it would limit the number of systems that are impacted and could be used for malicious purposes. Within the least privilege control, we could also employ enhancement 3 which includes authorizing network access commands for certain operational needs while also documenting the reasoning behind such needs.
 
 * ***Train your employees***
   * According to the cybersecurity education company, Cybint, 95% of breaches are caused by human error.

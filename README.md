@@ -52,3 +52,7 @@ Go through key points and point out vulnerabilities and weaknesses.
 
 * security checklist
   * create once every feasible vulnerability and scenario is outlined
+
+### ***4 - 20 - 2020***
+
+* Finishing touches

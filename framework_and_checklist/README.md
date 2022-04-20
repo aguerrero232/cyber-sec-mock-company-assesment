@@ -34,24 +34,6 @@ ___
 
 ### ***Security Methods***
 
-* Concurrent Session Control:
-  A small business should take care of how many concurrent sessions its employees have access to based on the role of the employee. By closely monitoring the attempts that an employee has made in having various sessions open, a small business can use this as a detection measure to see if high levels of attempts are caused by a compromised user, this also limits the attackers window of operation as it would be easy to trigger such a detection measure.
-
-* Remote Access:
-  As more and more employers have shifted to remote work, it can be deduced that an attacker will attempt to compromise a user’s account using the employee’s personal computer, as a personal device has less security than that of an enterprise device. We can further strengthen this control by implementing enhancement 10 (Authenticate remote commands) by implementing a two-factor authentication process that requires an employee to input a pin and a token so that specific commands and logins can be verified; this provides strong protection in assuring that an employee and not an attacker is the individual that is logging in.
-
-* Access Control for Mobile Devices:
-  Personal handheld devices are the most prevalent form of communication, and if an attacker was to compromise an employee’s mobile device, the attacker would have an array of sensors and tools that could be used to spy and further advance their attempts of intrusion. Implementing policies that limits mobile device usage can further enhance the security of a small business the rationale behind such policies is due to the possibility of employees not having the lates security patches updated to their mobile devices, such lack of patches can cause an attacker to exploit the employee’s mobile device and use it to compromise any system an employee connects their device to.
-
-* 21 Information Sharing:
-  Information sharing can be an easy oversight, if an employee has the privilege to send emails with sensitive information outside of the organization, this can cause huge regulatory issues, along with providing attackers the ability to send mass amounts of information outside of the business without raising suspicion. This can further be enhanced to include the restriction of external communication, only specified users can have access to send out external emails which would require that the emails sent out along with the users account have extra scrutiny in case the account is ever compromised.
-
-* Policy and Procedure:
-  This control falls under the category of awareness and training, and the purpose of such a control is to build policies that reduce the possibility of an attacker compromising a system or network. Management can create awareness information and develop training materials that users can learn upon.
-
-* Literacy Training and Awareness:
-  The purpose of such a control is to raise employee awareness of disguised cybersecurity threats. Human error is usually the biggest weakness, and for a small business, it can be easier to assure that most if not all employees are aware of the tactics used to compromise a network. By having quarterly training sessions and knowledge checks along with mock attack, the human error can be greatly reduced.
-
 * Identify and control who has access to your business information
   * Do not allow unauthorized persons to have access to any business hardware
   * Be aware of anyone who has access to computers
@@ -62,15 +44,18 @@ ___
 
 * Conduct Background Checks
   * Make sure the person you may employ does not have a history of
-* Require individual user accounts for each employee.
-  * Require strong unique passwords
-  * Without individual accounts it will be harder to investigate data loss or manipulation
 
 * Create policies and procedures for information security
   * Outline acceptable practices
   * Clearly define your expectations
   * All employees should sign a statement of agreement
   * Review policies annually and as changes to the company and technologies used occur
+
+* Information Sharing
+
+      Information sharing can be an easy oversight, if an employee has the privilege to send emails with sensitive information outside of the organization, this can cause huge regulatory issues, along with providing attackers the ability to send mass amounts of information outside of the business without raising suspicion. This can further be enhanced to include the restriction of external communication.
+  
+  * Only specified users can have access to send out external emails which would require that the emails sent out along with the users account have extra scrutiny in case the account is ever compromised.
 
 * Least Privilege
   * Limit employee access to data and information
@@ -79,6 +64,10 @@ ___
   * Users should only be allowed to use privileged software based on their role in the business.
   
       By limiting the amount of privilege that a user has access to, if, theoretically, the user’s account was compromised, it would limit the number of systems that are impacted and could be used for malicious purposes. Within the least privilege control, we could also employ enhancement 3 which includes authorizing network access commands for certain operational needs while also documenting the reasoning behind such needs.
+
+* Require individual user accounts for each employee.
+  * Require strong unique passwords
+  * Without individual accounts it will be harder to investigate data loss or manipulation
 
 * ***Train your employees***
   * According to the cybersecurity education company, Cybint, 95% of breaches are caused by human error.
@@ -93,9 +82,16 @@ ___
         One of the weakest points of an IT system is the authentication system, mostly due to the fact that many users will disregard best practices. Training in this scenario should include creating and maintaining a strong secure password and how to use different passwords for each account the employee may posses.
 
     * **Remote Work Tools and Practices**
-
-        Remote work is more common, and interactions with outside forces can threaten the security of a professional network. Employees should have information and other resources on how to manage their devices and connect to business networks.
+      * Outside forces can threaten the security of a professional network.
+      * Employees should have information and other resources on how to manage their devices and connect to business networks.
+      * Authenticate remote commands by implementing a two-factor authentication process that requires an employee to input a pin and a token so that specific commands and logins can be verified
+  
   * Continually reinforce the training in everyday conversations or meetings
+  * Training sessions and knowledge checks along with mock attacks should be held regularly.
+
+* Concurrent Session Control
+  * Closely monitoring the attempts that an employee has made in having various sessions open, a small business can use this as a detection measure to see if high levels of attempts are caused by a compromised user
+  * Limits the attackers window of operation as it would be easy to trigger such a detection measure.
 
 * Patch your operating systems and applications
   * Only install what is needed to run your business
@@ -142,6 +138,13 @@ from your business network.**
   * Backups will let you restore your data in case a computer breaks, an employee makes a mistake, or a malicious program infects your system.
   * Data that you should backup includes, but is not limited to, spreadsheets, databases, financial records, human resources files, customer accounts account information and system logs.
 
+* Mobile Devices
+
+      Personal handheld devices are the most prevalent form of communication, and if an attacker was to compromise an employee’s mobile device, the attacker would have an array of sensors and tools that could be used to spy and further advance their attempts of intrusion. 
+  
+  * Implementing policies that limits mobile device usage can further enhance the security of a small business the rationale behind such policies.
+  * The possibility of employees not having the lates security patches updated to their mobile devices, such lack of patches can cause an attacker to exploit the employee’s mobile device and use it to compromise any system an employee connects their device to.
+
 ___
 
 # **NARO Audit Checklist**
@@ -179,7 +182,7 @@ ___
 
 * What are your currently policies and procedures for any cyber related work?
 
-### ***Literacy training and awareness***
+### ***Training and awareness***
 
 * How often are your employees trained on cyber security threats?
 * How often does testing occur?

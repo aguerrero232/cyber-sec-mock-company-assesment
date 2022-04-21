@@ -36,9 +36,9 @@ has been compromised
 
 ## Notes
 
-[Naro Overview](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/part-1-naro-overview)
+[NARO, Inc Overview](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/part-1-naro-overview)
 
-[Naro Vulnerabilities](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/part-2-naro-vulnerabilities)
+[NARO, Inc Vulnerabilities](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/part-2-naro-vulnerabilities)
 
 ___
 

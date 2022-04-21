@@ -24,6 +24,8 @@ system does not yet exist.
 they may not have an IT person that can quickly restore systems to their original state after it
 has been compromised  
 
+# ***Deliverables***
+
 ## Report
 
 [NARO, Inc Assessment Report](https://github.com/aguerrero232/cyber_sec_group_project/blob/main/assessment_report.pdf)
@@ -32,14 +34,22 @@ has been compromised
 
 [NARO, Inc Assessment Report Presentation](https://github.com/aguerrero232/cyber_sec_group_project/blob/main/NARO_Inc_Assessment_Report_Presentation.pdf)
 
-## Gameplan
+## Notes
 
-### ***3 - 23 - 2022***
+[Naro Overview]()
+[Naro Vulnerabilities]()
+
+
+
+
+### Gameplan
+
+#### ***3 - 23 - 2022***
 
 Go though the overview and video then list out important data relating to NARO.
 Go through key points and point out vulnerabilities and weaknesses.
 
-### ***4 - 6 - 2020***
+#### ***4 - 6 - 2020***
 
 * goals for assessment methodologies
   * find more vulnerabilities (what)
@@ -61,6 +71,6 @@ Go through key points and point out vulnerabilities and weaknesses.
 * security checklist
   * create once every feasible vulnerability and scenario is outlined
 
-### ***4 - 20 - 2020***
+#### ***4 - 20 - 2020***
 
 * Finishing touches

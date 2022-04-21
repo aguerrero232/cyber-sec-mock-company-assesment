@@ -26,11 +26,11 @@ has been compromised
 
 ## Report
 
-![Naro Inc Report](https://github.com/aguerrero232/cyber_sec_group_project/blob/main/assesment_report.pdf)
+[Naro Inc Report](https://github.com/aguerrero232/cyber_sec_group_project/blob/main/assessment_report.pdf)
 
 ## Presentation
 
-![Naro Inc Report Presentation](https://github.com/aguerrero232/cyber_sec_group_project/blob/main/NARO_Inc_Assessment_Report_Presentation.pdf)
+[Naro Inc Report Presentation](https://github.com/aguerrero232/cyber_sec_group_project/blob/main/NARO_Inc_Assessment_Report_Presentation.pdf)
 
 ## Gameplan
 

@@ -24,6 +24,14 @@ system does not yet exist.
 they may not have an IT person that can quickly restore systems to their original state after it
 has been compromised  
 
+## Report
+
+![](assesment_report.pdf)
+
+## Presentation
+
+![](NARO_Inc_Assessment_Report_Presentation.pdf)
+
 ## Gameplan
 
 ### ***3 - 23 - 2022***

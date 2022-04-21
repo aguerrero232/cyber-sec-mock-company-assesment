@@ -43,7 +43,8 @@ ___
 [NARO, Inc Vulnerabilities](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/part-2-naro-vulnerabilities)
 
 [NARO, Inc Framework](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/framework)
-[NARO, Inc Audit Checklist]()
+
+[NARO, Inc Audit Checklist](https://github.com/aguerrero232/cyber_sec_group_project/tree/main/audit_checklist)
 ___
 
 

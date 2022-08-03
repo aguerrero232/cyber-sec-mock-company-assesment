@@ -1,4 +1,4 @@
-# cybe mock assesment report
+# cyber mock assesment report
 
 ## Contributors
 
